@@ -18,7 +18,9 @@ public class Circle
      */
     public Circle()
     {
-        // TODO - replace this line with your code
+        x = 0;
+        y = 0;
+        radius = 1;
     }
 
     /**
@@ -53,7 +55,7 @@ public class Circle
      */
     public double getRadius()
     {
-        // TODO - replace this line with your code
+        return 0; // TODO - replace this line with your code
     }
 
     /**
@@ -63,7 +65,7 @@ public class Circle
      */
     public double getX()
     {
-        // TODO - replace this line with your code
+        return 0; // TODO - replace this line with your code
     }
 
     /**
@@ -73,7 +75,7 @@ public class Circle
      */
     public double getY()
     {
-        // TODO - replace this line with your code
+        return 0; // TODO - replace this line with your code
     }
 
     // mutator methods

@@ -2,7 +2,7 @@
 
 By the end of this activity, a student should be able to:
 1. Implement a simple Java class
-2. Use other classes to accomplish more complex tasks
+2. Implement constructors
 3. implement accessor and mutator methods
 
 ## Introduction
