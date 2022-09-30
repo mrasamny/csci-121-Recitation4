@@ -95,4 +95,4 @@ Now, implement the three mutator methods `setRadius`, `setX`, and `setY` so that
 
 ## Submit Code
 
-Ensure that all constructors and methods work correctly by setting up a Graddle run configuration.  Your project comes with a test class that tests all your methods and constructors.  Once your test runs successfully, push your work to the repo.  You are guaranteed that a successful test run will result in a successful run on Github.
+Ensure that all constructors and methods work correctly by setting up a Graddle run configuration.  Your project comes with a test class that tests all your methods and constructors.  Once your test runs successfully, push your work to the repo.
