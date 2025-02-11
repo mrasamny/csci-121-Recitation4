@@ -36,4 +36,4 @@ The `explode` method must use a nested `for` loop and must use the `Character` c
 
 ## Submitting Your Work
 
-After completing the above tasks, submit your work by clicking on the CodeGrade link in Blackboard.
+After completing the above tasks, submit your work by clicking the CodeGrade link in Blackboard.
