@@ -1,4 +1,3 @@
-import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -6,7 +5,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class Recitation4Test {
 
     @Test
-    @DisplayName("[5] Testing explode.")
     void explode() {
         assertEquals("Coodddeeee", Recitation4.explode("Code"));
         assertEquals("22bbeeeOOOORRRRRnnnnnnoooooootttttttt2beORnot", Recitation4.explode("2beORnot!"));
